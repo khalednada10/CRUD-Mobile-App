@@ -1,0 +1,6 @@
+framework module Pods_CRUD_app {
+  umbrella header "Pods-CRUD app-umbrella.h"
+
+  export *
+  module * { export * }
+}
